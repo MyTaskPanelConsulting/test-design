@@ -6,7 +6,7 @@
 
 ### Instalación
 
-Crear un proyecto con el cli de algún framework moderno como React.js, Vue.js o Angular.
+Crear un proyecto con el CLI de algún framework moderno como React.js, Vue.js o Angular.
 
 ### Descripción del test
 Realizar una página similar a la que se muestra en la imagen adjunta. La idea es valorar las habilidades en el uso de los estilos y maquetación de los elementos y no la funcionalidad del mismo.
