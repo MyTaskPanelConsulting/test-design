@@ -1,18 +1,12 @@
-# Test design vue
+# Test design
 
 ### Requerimientos
 
 1. Node.js
 
-### Instalar vue-cli y crear el proyecto
+### Instalación
 
-Ejecutar:
-
-    npm install -g @vue/cli
-  
-Crear el proyecto:
-
-    vue create project_name
+Crear un proyecto con el cli de algún framework moderno como React.js, Vue.js o Angular.
 
 ### Descripción del test
 Realizar una página similar a la que se muestra en la imagen adjunta. La idea es valorar las habilidades en el uso de los estilos y maquetación de los elementos y no la funcionalidad del mismo.
